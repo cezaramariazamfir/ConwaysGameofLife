@@ -1,13 +1,8 @@
-# Conway's Game of Lifw
+# Conway's Game of Life
 
 This project combines two functionalities: a simulation of Conway's Game of Life and a message encryption/decryption system using XOR operations. Conway's Game of Life is a cellular automaton devised by mathematician John Conway, while message encryption/decryption provides a basic example of cryptography.
 
 The code for this project is written in assembly.
-
-## Table of Contents
-
-- [Features](#features)
-- [Usage](#usage)
   
 ## Features
 
