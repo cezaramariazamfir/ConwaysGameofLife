@@ -7,16 +7,16 @@ The code for this project is written in assembly.
 ## Features
 
 **1. Conway's Game of Life simulation:**
-  Allows users to specify the size of the grid (m x n) and the number of generations (k) for the simulation.
-  Reads input for the initial configuration of live cells.
-  Implements the rules of the Game of Life to simulate the evolution of the grid over k generations.
-  Outputs the final state of the grid after k generations.
+  - Allows users to specify the size of the grid (m x n) and the number of generations (k) for the simulation.
+  - Reads input for the initial configuration of live cells.
+  - Implements the rules of the Game of Life to simulate the evolution of the grid over k generations.
+  - Outputs the final state of the grid after k generations.
 
 **2. Message encryption/decryption:**
-  Supports encryption and decryption of messages using XOR operations.
-  Reads a message and a key from the user.
-  Encrypts or decrypts the message based on the specified operation.
-  Outputs the encrypted or decrypted message in hexadecimal format.
+  - Supports encryption and decryption of messages using XOR operations.
+  - Reads a message and a key from the user.
+  - Encrypts or decrypts the message based on the specified operation.
+  - Outputs the encrypted or decrypted message in hexadecimal format.
 
 
 
